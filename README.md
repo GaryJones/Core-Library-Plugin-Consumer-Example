@@ -1,4 +1,3 @@
-Core-Library-Plugin-Consumer-Example
-====================================
+# Core Library Plugin Consumer Example
 
-A standard WordPress plugin that has a dependency on the Core Library Plugin.
+This is an example plugin which has a dependency on the example [Core Library Plugin](https://github.com/GaryJones/Core-Library-Plugin-Example).
